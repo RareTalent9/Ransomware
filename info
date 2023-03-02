@@ -1,0 +1,8 @@
+Simple tool that will encrypt all the files in a directory.
+To encrypt all the files run:
+python3 encrypt.py
+It generates a key using fernet library from python that encrypts the file.
+
+Don't Worry...!!
+
+decrypt.py is used to decrypt the file and recover the file contents.
